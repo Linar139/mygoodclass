@@ -79,19 +79,3 @@ nav{
 		text-align: left;
 	}
 }
-@media screen and (max-width: 392px){
-	.topnav.responsive a.icon{
-		top: -50px;
-		right: -200px;
-	}
-}
-@media screen and (max-width: 290px){
-	.header_logo{
-		margin-left: 5%;
-	}
-}
-@media screen and (max-width: 275px){
-	.header_logo{
-		margin-left: 5%;
-	}
-}
